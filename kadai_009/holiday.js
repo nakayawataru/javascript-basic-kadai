@@ -7,6 +7,6 @@ while(num !== 16){
   num = num + 1;
 }
 
-for(let i = 0; i <= 16; i++){
+for(let i = 0; i <= 15; i++){
   console.log(holidays[i]);
 }
